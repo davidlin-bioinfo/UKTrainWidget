@@ -48,6 +48,20 @@ This is a redesigned and enhanced version of the original [scriptable-transit]([
 2. Copy the script from `uktrainroutine.js` into a new Scriptable script
 3. Set your station code and preferences in the config section
 4. Add a Scriptable widget on your Home Screen and select this script
+5. Replace 'WAT' and 'CLJ' with your desired station codes (3-letter National Rail codes).
+6.	Add a Scriptable widget to your iOS home screen, and select this script.
+
+
+##🙋‍♂️ FAQ
+
+Q: Do I need to pay for TransportAPI?
+A: No, but each key has a limited daily request quota. This script switches between two keys automatically to extend free usage.
+
+Q: Can I track trains from any station?
+A: Yes, as long as the station has data on TransportAPI and you use valid 3-letter codes.
+
+Q: Will this work outside the UK?
+A: No — TransportAPI is UK-based. For other countries, you will need to adapt the data source.
 
 ## 🙏 Credits
 Originally inspired by[scriptable-transit]([https://github.com/trevorhealy/uk-train-widget](https://github.com/trevorwhealy/scriptable-transit) by Trevor Healy, licensed under the MIT License.
