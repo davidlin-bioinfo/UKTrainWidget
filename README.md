@@ -17,7 +17,8 @@ This is a redesigned and enhanced version of the original [scriptable-transit]([
 
 ## 📷 Screenshot
 
-![IMG_7209](https://github.com/user-attachments/assets/7fc648d8-33f0-44ae-9944-426a0abed527)
+![IMG_7209](https://github.com/user-attachments/assets/7bd01a0c-a1ac-4d69-8525-06f3e2733195)
+
 
 
 ---
